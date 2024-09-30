@@ -1,0 +1,7 @@
+echo "# MBODJI" >> README.md 
+git init 
+git add README.md 
+git commit -m "premier commit" 
+git branch -M main 
+git remote add origine https://github.com/cheikh-design/MBODJI.git
+ git push -u origine main
